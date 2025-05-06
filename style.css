@@ -32,11 +32,11 @@ a, a:link, a:visited {
     text-decoration: none;
 }
 a:hover, a:active {
-    color: #cba6f7;
+    color: #89b4fa;
     text-decoration: none;
     font-weight: bold;
 }
 mark.hyperlinked {
-    color: #cba6f7;
+    color: #89b4fa;
     background: none;
 }
